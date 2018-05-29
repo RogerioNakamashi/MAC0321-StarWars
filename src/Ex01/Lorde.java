@@ -5,7 +5,7 @@ public class Lorde extends Sith{
 	private int videncia;
 	private String nomeSith;
 	private int HP;
-	private Golpes[] golpes = new Golpes[3];
+	public Golpes[] golpes = new Golpes[3];
 	
 	private static int index = 0;
 	

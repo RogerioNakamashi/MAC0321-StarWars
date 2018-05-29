@@ -6,7 +6,7 @@ public class Mestre extends Jedi{
 	private int videncia; //anos-luz
 	private int HP;
 	
-	private Golpes[] golpes = new Golpes[3];
+	public Golpes[] golpes = new Golpes[3];
 	
 	private static int index = 0;
 	
