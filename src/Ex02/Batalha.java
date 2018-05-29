@@ -67,7 +67,6 @@ public class Batalha {
 		Lorde lordeSith = criaLorde(sith, 500);
 		
 		while (mestreJedi.getHP() > 0 && lordeSith.getHP() > 0) {
-			//bla bla bla whiska sache
 		}
 		if(mestreJedi.getHP() > 0) {
 			System.out.println(jedi + " venceu esta batalha!");
